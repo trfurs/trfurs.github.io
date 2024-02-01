@@ -7,7 +7,7 @@
 pages:
   stage: deploy
   environment: production
-  script: echo
+  script: echo "amogus"
   artifacts:
     paths:
       - .
